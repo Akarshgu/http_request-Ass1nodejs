@@ -15,6 +15,6 @@ No Buffering − Node.js applications never buffer any data. These applications 
 
 License − Node.js is released under the MIT license.
 
-explain what is node by sending response in HTML and JSON format
+what is node by sending response in HTML and JSON format
 
 Node.js Javascript Web Development Front End Technology The send () and json () functions are used for sending the response to the client directly from the server. The send () method will send the data in a string format, whereas the json () function will send the same in JSON format.
